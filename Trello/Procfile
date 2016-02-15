@@ -1,1 +1,1 @@
-web:    java -cp target/classes/com/trello/controller:target/dependency/* Main
+web:    java -cp Trello/target/classes/com/trello/controller:target/dependency/* Main
