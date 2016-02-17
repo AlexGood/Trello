@@ -9,7 +9,7 @@
         http://www.springframework.org/schema/context 
         http://www.springframework.org/schema/context/spring-context.xsd">
  
-	<context:component-scan base-package="com.trello.controller" />
+	<context:component-scan base-package="edu.onpu.contreller" />
  
 	<bean id="viewResolver"
 		class="org.springframework.web.servlet.view.UrlBasedViewResolver">
